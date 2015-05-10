@@ -26,7 +26,7 @@ public class CameraControllerScript : MonoBehaviour {
 		if (player != null) {
 			Vector3 pos = transform.position;
 			pos.x = player.position.x + offsetX;
-			pos.y = player.position.y;
+			pos.y = player.position.y + 3;
 			transform.position = pos;
 		}
 	
