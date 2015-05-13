@@ -53,11 +53,7 @@
      <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\8-Bit_Action_Free\Readme.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
-<<<<<<< HEAD
- <HintPath>C:/Users/Jeremy/Documents/GitHub/MyFinalProject/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
-=======
  <HintPath>C:/Users/Abel/Documents/MyFinalProject/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
->>>>>>> origin/master
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.3/UnityEngine.UI.dll</HintPath>
